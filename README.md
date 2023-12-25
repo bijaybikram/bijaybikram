@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bijaybikram
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning MERN Stack for Web!
 - 📫 How to reach me bijaybikram01@gmail.com
 
 <!---
