@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bijaybikram
 - 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to for someone collaborate on a project of my own called "Clevergenes"
-- 📫 How to reach me becauseiam33@gmail.com
+- 📫 How to reach me bijaybikram01@gmail.com
 
 <!---
 bijaybikram/bijaybikram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
